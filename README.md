@@ -1,7 +1,5 @@
 <img align="center" alt="coding" width="1000" height="150" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 
-<font color="green"> Some green text </font>
-
 <h1 align="center">Hi 👋, I'm Yasser Messahli</h1>
 <h3 align="center">A passionate AI developer from "Algeria/Sétif"</h3>
 <br>
