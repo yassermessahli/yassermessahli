@@ -1,6 +1,8 @@
+<img align="center" alt="coding" width="1000" height="150" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
+
 <h1 align="center">Hi 👋, I'm Yasser Messahli</h1>
 <h3 align="center">A passionate AI developer from "Algeria/Sétif"</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 
