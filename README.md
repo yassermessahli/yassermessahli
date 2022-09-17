@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Yasser Messahli</h1>
 <h3 align="center">A passionate AI developer from "Algeria/Sétif"</h3>
+<br>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<br>
 
-
+<p align="left"> <a href="https://twitter.com/yassermessahli" target="blank"><img src="https://img.shields.io/twitter/follow/yassermessahli?logo=twitter&style=for-the-badge" alt="yassermessahli" /></a> </p>
 
 - 🔭 I’m currently working on [Java repo's README file](https://github.com/yassermessahli/Comming-soon-Java-PL-)
 
@@ -23,7 +25,6 @@
 <br>
 <br>
 
-<p align="left"> <a href="https://twitter.com/yassermessahli" target="blank"><img src="https://img.shields.io/twitter/follow/yassermessahli?logo=twitter&style=for-the-badge" alt="yassermessahli" /></a> </p>
 
 <p align="left" height="30"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassermessahli" alt="yassermessahli" /></a> </p>
 
