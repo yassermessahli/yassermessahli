@@ -29,7 +29,7 @@
 <br>
 
 
-<p align="left" height="30"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassermessahli" alt="yassermessahli" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassermessahli" alt="yassermessahli" /></a> </p>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
