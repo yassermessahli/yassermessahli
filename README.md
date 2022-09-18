@@ -73,17 +73,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <h3 align="left">Some repositories: </h3>
 
 <a href="https://github.com/yassermessahli/ChatBot-With-Discord.py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=ChatBot-With-Discord.py&theme=prussian&border_color=2490A6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=ChatBot-With-Discord.py&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
 </a>
 <a href="https://github.com/yassermessahli/Comming-soon-Java-PL-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=Comming-soon-Java-PL-&theme=prussian&border_color=2490A6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=Comming-soon-Java-PL-&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
 </a>
 
 <br>
 
 <a href="https://github.com/yassermessahli/PyTorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=PyTorch&theme=prussian&border_color=2490A6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=PyTorch&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
 </a>
 <a href="https://github.com/yassermessahli/TFODCourse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=TFODCourse&theme=prussian&border_color=2490A6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=TFODCourse&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
 </a>
