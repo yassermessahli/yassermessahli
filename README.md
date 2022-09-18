@@ -68,5 +68,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yassermessahli&show_icons=true&locale=en&hide_border=true&theme=tokyonight&border_radius=35&card_width=150" alt="yassermessahli" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yassermessahli&hide_border=true&theme=tokyonight&border_radius=35&card_width=150" alt="yassermessahli" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yassermessahli&hide_border=true&theme=tokyonight&border_radius=60&card_width=150" alt="yassermessahli" /></p>
 
