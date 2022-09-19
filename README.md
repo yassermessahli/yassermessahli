@@ -31,6 +31,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassermessahli" alt="yassermessahli" /></a> </p>
 
+<br>
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassermessahli&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&border_radius=50&card_width=1000&bg_color=DEG,17202A,212F3C&title_color=48C9B0" alt="yassermessahli" /></p>
 
@@ -70,8 +72,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 
 <br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <h3 align="left">Some repositories: </h3>
 
+<br><br>
 
 <a href="https://github.com/yassermessahli/Comming-soon-Java-PL-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=Comming-soon-Java-PL-&theme=prussian&bg_color=DEG,18626C,0F4046&border_color=20A9BB" />
