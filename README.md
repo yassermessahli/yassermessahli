@@ -67,16 +67,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yassermessahli&show_icons=true&locale=en&theme=tokyonight&border_radius=35&card_width=150&bg_color=DEG,21132E,41213C&border_color=1C5258" alt="yassermessahli" /></p>
 
+<br><br><br><br><br><br><br><br><br><br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yassermessahli&theme=tokyonight&border_radius=35&card_width=150&bg_color=DEG,21132E,41213C&border_color=1C5258" alt="yassermessahli" /></p>
 
 
 
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## **`Some repositories:`**
 
 &nbsp;&nbsp;<a href="https://github.com/yassermessahli/Comming-soon-Java-PL-">
