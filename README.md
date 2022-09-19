@@ -61,6 +61,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <hr>
 <br>
 
+
+<h3>Status:</h3>
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yassermessahli&show_icons=true&locale=en&theme=tokyonight&border_radius=35&card_width=150&bg_color=DEG,21132E,41213C&border_color=1C5258" alt="yassermessahli" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yassermessahli&theme=tokyonight&border_radius=35&card_width=150&bg_color=DEG,21132E,41213C&border_color=1C5258" alt="yassermessahli" /></p>
@@ -72,10 +76,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 
 <br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <h3 align="left">Some repositories: </h3>
 
-<br><br>
+<br>
 
 <a href="https://github.com/yassermessahli/Comming-soon-Java-PL-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=Comming-soon-Java-PL-&theme=prussian&bg_color=DEG,18626C,0F4046&border_color=20A9BB" />
