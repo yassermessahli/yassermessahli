@@ -32,7 +32,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassermessahli" alt="yassermessahli" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassermessahli&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&border_radius=50&card_width=1000" alt="yassermessahli" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassermessahli&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&border_radius=50&card_width=1000&bg_color=DEG,17202A,212F3C&title_color=48C9B0" alt="yassermessahli" /></p>
 
 <br>
 <hr>
@@ -59,9 +59,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <hr>
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yassermessahli&show_icons=true&locale=en&hide_border=true&theme=tokyonight&border_radius=35&card_width=150" alt="yassermessahli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yassermessahli&show_icons=true&locale=en&theme=tokyonight&border_radius=35&card_width=150&bg_color=DEG,21132E,41213C&border_color=1C5258" alt="yassermessahli" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yassermessahli&hide_border=true&theme=tokyonight&border_radius=35&card_width=150" alt="yassermessahli" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yassermessahli&theme=tokyonight&border_radius=35&card_width=150&bg_color=DEG,21132E,41213C&border_color=1C5258" alt="yassermessahli" /></p>
 
 
 
@@ -72,18 +72,20 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <br><br><br><br><br><br><br><br><br><br>
 <h3 align="left">Some repositories: </h3>
 
-<a href="https://github.com/yassermessahli/ChatBot-With-Discord.py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=ChatBot-With-Discord.py&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
-</a>
+
 <a href="https://github.com/yassermessahli/Comming-soon-Java-PL-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=Comming-soon-Java-PL-&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=Comming-soon-Java-PL-&theme=prussian&bg_color=DEG,18626C,0F4046&border_color=20A9BB" />
+</a>
+<a href="https://github.com/yassermessahli/ChatBot-With-Discord.py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=ChatBot-With-Discord.py&theme=prussian&bg_color=DEG,0F4046,18626C&border_color=20A9BB" />
 </a>
 
 <br>
 
-<a href="https://github.com/yassermessahli/PyTorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=PyTorch&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
-</a>
+
 <a href="https://github.com/yassermessahli/TFODCourse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=TFODCourse&theme=prussian&border_color=2490A6&bg_color=DEG,5F3AA6,6F3B78" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=TFODCourse&theme=prussian&bg_color=DEG,18626C,0F4046&border_color=20A9BB" />
+</a>
+<a href="https://github.com/yassermessahli/PyTorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=PyTorch&theme=prussian&bg_color=DEG,0F4046,18626C&border_color=20A9BB" />
 </a>
