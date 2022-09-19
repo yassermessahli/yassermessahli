@@ -90,7 +90,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 </a>
 
 <br>
-<br>
 
 
 &nbsp;&nbsp;<a href="https://github.com/yassermessahli/TFODCourse">
