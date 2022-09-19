@@ -10,20 +10,19 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+> 🔭 I’m currently working on [Java repo's README file](https://github.com/yassermessahli/Comming-soon-Java-PL-)
 
-- 🔭 I’m currently working on [Java repo's README file](https://github.com/yassermessahli/Comming-soon-Java-PL-)
+> 🌱 I’m currently learning **`Java for Android Dev`**
 
-- 🌱 I’m currently learning **Java for Android Dev**
+> 👯 I’m looking to collaborate on **`any club project with members`**
 
-- 👯 I’m looking to collaborate on **any club project with members**
+> 💬 Ask me about **`Python libraries, Java, C, Design, git/github, anything ..`**
 
-- 💬 Ask me about **Python libraries, Java, C, Design, git/github, anything ..**
+> 📫 How to reach me **`yassermessahli0@gmail.com`**
 
-- 📫 How to reach me **yassermessahli0@gmail.com**
+> 📄 Know about my experiences [Soon](Soon)
 
-- 📄 Know about my experiences [Soon](Soon)
-
-- ⚡ Fun fact **I'm not interested on Sybersec**
+> ⚡ Fun fact **`I'm not interested on Sybersec`**
 
 <br>
 <br>
@@ -54,15 +53,17 @@
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+
+
 <p align="center">
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 <hr>
 <br>
+<br>
 
-
-<h3>Status:</h3>
+## **`Status:`**
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yassermessahli&show_icons=true&locale=en&theme=tokyonight&border_radius=35&card_width=150&bg_color=DEG,21132E,41213C&border_color=1C5258" alt="yassermessahli" /></p>
@@ -77,11 +78,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
-<h3 align="left">Some repositories: </h3>
+## **`Some repositories:`**
 
 <br>
 
-<a href="https://github.com/yassermessahli/Comming-soon-Java-PL-">
+&nbsp;&nbsp;<a href="https://github.com/yassermessahli/Comming-soon-Java-PL-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=Comming-soon-Java-PL-&theme=prussian&bg_color=DEG,18626C,0F4046&border_color=20A9BB" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/yassermessahli/ChatBot-With-Discord.py">
@@ -92,7 +93,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <br>
 
 
-<a href="https://github.com/yassermessahli/TFODCourse">
+&nbsp;&nbsp;<a href="https://github.com/yassermessahli/TFODCourse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=TFODCourse&theme=prussian&bg_color=DEG,18626C,0F4046&border_color=20A9BB" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/yassermessahli/PyTorch">
