@@ -84,11 +84,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 </a>
 
 <br>
-
-
-&nbsp;&nbsp;<a href="https://github.com/yassermessahli/TFODCourse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=TFODCourse&theme=prussian&bg_color=DEG,18626C,0F4046&border_color=20A9BB" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/yassermessahli/PyTorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassermessahli&repo=PyTorch&theme=prussian&bg_color=DEG,0F4046,18626C&border_color=20A9BB" />
-</a>
