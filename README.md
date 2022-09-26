@@ -10,23 +10,6 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-> 🔭 I’m currently working on [Java repo's README file](https://github.com/yassermessahli/Comming-soon-Java-PL-)
-
-> 🌱 I’m currently learning **`Java for Android Dev`**
-
-> 👯 I’m looking to collaborate on **`any club project with members`**
-
-> 💬 Ask me about **`Python libraries, Java, C, Design, git/github, anything ..`**
-
-> 📫 How to reach me **`yassermessahli0@gmail.com`**
-
-> 📄 Know about my experiences [Soon](Soon)
-
-> ⚡ Fun fact **`I'm not interested on Sybersec`**
-
-<br>
-<br>
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassermessahli" alt="yassermessahli" /></a> </p>
 
