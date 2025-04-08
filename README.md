@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width="1000" height="150" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 
 <h1 align="center">Yasser Messahli's Github Profile</h1>
-<p align="center">Talks about <b>DataSciences</b> and <b>Machine learning</b></p>
+<p align="center">Focus on Agentic AI and LLMs, Technical Assisstant @ SOAI Bejaia, AI Student @ ESTIN</b></p>
 
 <br>
 
