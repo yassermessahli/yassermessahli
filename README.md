@@ -1,7 +1,3 @@
-<h6 align="center"><i>إِنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا❤️</i></h6>
-
-<br>
-
 <img align="center" alt="coding" width="1000" height="150" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 
 <h1 align="center">Yasser Messahli's Github Profile</h1>
